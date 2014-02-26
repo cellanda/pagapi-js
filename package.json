@@ -1,0 +1,50 @@
+{
+  "name": "pagapi",
+  "version": "0.0.1-01",
+  "description": "convert web pages into an api",
+  "homepage": "http://www.cellanda.com/js/pagapi",
+  "author": {
+    "name": "terry pothecary",
+    "email": "terry@cellanda.com",
+    "url": "http://www.cellanda.com/people/terry"
+  },
+  "contributors": [
+  ],
+  "keywords": [
+    "web pages",
+    "api",
+    "automation",
+    "page objects"
+  ],
+  "main": "main.js",
+  "scripts": {
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "object-vista": "~0.0.1",
+    "q": "~0.9.4",
+    "async": "~0.2.10",
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cellanda/pagapi-js"
+  },
+  "bugs": {
+    "url": "https://github.com/cellanda/pagapi-js/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/cellanda/pagapi-js/LICENSE"
+    }
+  ],
+  "readme": "convert web pages into an api",
+  "readmeFilename": "README.md",
+  "_id": "pagapi@0.0.1-01",
+  "_from": "pagapi@"
+}
